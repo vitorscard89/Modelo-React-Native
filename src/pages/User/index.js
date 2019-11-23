@@ -8,5 +8,5 @@ export default function User() {
 }
 
 User.navigationOptions = {
-  title: 'olá User!',
+  title: 'olá User',
 };
